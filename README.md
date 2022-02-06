@@ -6,9 +6,9 @@ Hello Client,
 
 I have just looked over all of the material and requirements for the React based cart/checkout process. I should be able to complete everything within five hours.  I will however need a few more things from the UI team. I have included the list below. Please let me know if you have any questions or concerns. 
 
-- Billing and Shipping input section
-- Payment method section
-- Return to cart button from checkout section
+- A section for the customers billing and shipping details.
+- A payment method section.
+- A return to cart button from the checkout section.
 
 Thanks, 
 Phil Elliott
