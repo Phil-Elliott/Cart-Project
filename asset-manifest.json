@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Cart-Project/static/css/main.8b47ba70.css",
+    "main.js": "/Cart-Project/static/js/main.cef732ab.js",
+    "static/media/glyphicons-halflings-regular.svg": "/Cart-Project/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/Cart-Project/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/Cart-Project/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/Cart-Project/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/Cart-Project/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/Cart-Project/index.html",
+    "main.8b47ba70.css.map": "/Cart-Project/static/css/main.8b47ba70.css.map",
+    "main.cef732ab.js.map": "/Cart-Project/static/js/main.cef732ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b47ba70.css",
+    "static/js/main.cef732ab.js"
+  ]
+}
